@@ -14,7 +14,7 @@ from utils import *
 class ShotDetector:
     def __init__(self):
         # Load the YOLO model created from main.py - change text to your relative path
-        self.model = YOLO("best (4).pt")
+        self.model = YOLO("model.pt")
         self.class_names = ['ball', 'hoop']
 
         self.cap = None
