@@ -22,7 +22,9 @@ This IoT-based system detects a basketball and the hoop in real time and determi
   pip install -r requirements.txt
 ```
 ### To Run the program
-- Download the input video and set the path.
+- Download the input video and set the path, link to the video [click here](https://drive.google.com/file/d/1BdkBzDuWUNy4JURl1DnnEx4k9pT5q4WR/view?usp=drive_link).
+- Ensure the YOLO model is in the directory.
+- Setup the IoT devices (if u want to).
 - Run main.py
 - Check the webpage.
 ## Contributors
