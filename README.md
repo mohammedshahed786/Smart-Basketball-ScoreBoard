@@ -2,15 +2,15 @@
 # Smart-Basketball-Score-Board
 This IoT-based system detects a basketball and the hoop in real time and determines if a shot results in a score. By analyzing object positions in real-time , the model can detect whether the ball went through the hoop and updates it on the Scoreboard.
 ## Features
-- **Real-time Detection:** Uses YOLOv8 for fast and accurate detection of basketball and hoop.
-- **Scoring Analysis:** Determines if the basketball successfully enters the hoop.
-- **Scoreboard:** Score is updated on the LED Scoreboard as well as the webpage.
+- <ins>**Real-time Detection:**</ins> Uses YOLOv8 for fast and accurate detection of basketball and hoop.
+- <ins>**Scoring Analysis:**</ins> Determines if the basketball successfully enters the hoop.
+- <ins>**Scoreboard:**</ins> Score is updated on the LED Scoreboard as well as the webpage.
 ## Technologies Used
 
-- **YOLOv8:** A machine learning model for Object detection for identifying the basketball and hoop.
-- **Python:** Primary language for running detection scripts.
-- **OpenCV:** Library used for video processing.
-- **IoT Devices**: Arduino UNO, RF Module, wireless cameras, WS2812B LED (For scoreboard), Jetson Xavier (GPU).
+- <ins>**YOLOv8:**</ins> A machine learning model for Object detection for identifying the basketball and hoop.
+- <ins>**Python:**</ins> Primary language for running detection scripts.
+- <ins>**OpenCV:**</ins> Library used for video processing.
+- <ins>**IoT Devices:**</ins> Arduino UNO, RF Module, wireless cameras, WS2812B LED (For scoreboard), Jetson Xavier (GPU).
 ## Setup
 
 ###  Clone the Repository
