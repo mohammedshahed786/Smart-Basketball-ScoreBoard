@@ -30,7 +30,7 @@ This IoT-based system detects a basketball and the hoop in real time and determi
 ## Contributors
 - [Afreed](https://github.com/mohd-afreed)
 - [Ibrahim](https://github.com/muzammil-ibrahim)
-- [Shahed](https://github.com/MOHAMMEDSHAHED786)
+- [Shahed](https://github.com/mohammedshahed786)
 - [Sumaiya](https://github.com/sumaiya226)
 - [Vaishnavi](https://github.com/vaishnavijade)
 - [Vyahruti](https://github.com/Vyahruti)
